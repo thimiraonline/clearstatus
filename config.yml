@@ -3,7 +3,7 @@
 ############################################################
 
 # Complete page title
-title: ClearStatus systems status page
+title: Android වැඩකාරයෝ systems status page
 
 # Language config
 languageCode: en
@@ -20,7 +20,7 @@ languageCode: en
 params:
   systems:
     - name: Website
-      description: Our company public facing website
+      description: Android වැඩකාරයෝ website
       link: https://androidwedakarayo.com/
 
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
