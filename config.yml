@@ -34,7 +34,7 @@ params:
   timezoneString: " UTC"
 
   # Path to logo image from the /static folder.
-  logo: "/images/clearstatus.svg"
+  logo: "/images/site logo.png"
 
   # favicon
   icon: "/images/clearstatus.png"
