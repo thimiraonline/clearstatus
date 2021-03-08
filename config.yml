@@ -34,7 +34,7 @@ params:
   timezoneString: " UTC"
 
   # Path to logo image from the /static folder.
-  logo: "/images/site logo.png"
+  logo: "https://androidwedakarayo.com/content/images/2020/09/Asset-1.png"
 
   # favicon
   icon: "https://androidwedakarayo.com/favicon.png"
