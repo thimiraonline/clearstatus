@@ -37,7 +37,7 @@ params:
   logo: "/images/site logo.png"
 
   # favicon
-  icon: "/images/clearstatus.png"
+  icon: "https://androidwedakarayo.com/favicon.png"
   iconType: "image/png"
 
   # Descriptions
